@@ -1,0 +1,74 @@
+---
+title: "Education and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Summary
+
+I am currently a Master's of Science in Epidemiology student here at the Mailman School of Public Health. I recently graduated from the University of Detroit Mercy with a B.S in Biology, a minor in Women’s and Gender Studies. I have four years of undergraduate research experience and I am passionate about finding a way to lower the the maternal mortality crisis Black women are facing.
+
+In my role as an undergraduate student researcher, I was required to do an extensive amount of literature review on current studies in the prenatal field, while also recruiting women to participate in the Biosocial Impact on Black Births 
+(BIBB) study. While employed, I conducted data analysis with SPSS and wrote a research paper for the ReBUILDetroit program, where I was then able to present my findings in Honolulu, Hawaii at the National Society for Advancement of Chicanos/Hispanics and Native Americans (SACNAS) Conference in 2019.
+
+# Education
+
+Master of Epidemiology Candidate ('24) 
+
+  * Data Science I
+  * Life Course Epidemiology
+  * Biostatistics
+  * Epidemiology I
+  
+University of Detroit Mercy ('21)
+
+* Bachelor's of Science in Biology and a Minor in Women's and Gender Studies
+
+# Work Experience
+
+Community Health Navigator at GRAAHI
+
+* The Kent County Health Department has received funding from the US Department of Human Services to implement a Community Health Navigator role to mitigate and address the disproportionate impact of COVID-19 on racial and ethnic minorities.
+
+* Organizes COVID-19 vaccination clinics and vaccine informational presentations.
+
+
+Professional Aid at Michigan State University
+
+* Professional Aide for the COVID Mortality Review Committee
+
+National Institutes of Health (NIH) ReBUILDetroit Scholar                 
+* ReBUILDetroit (Building Infrastructure Leading to Diversity) is an NIH-funded undergraduate program that looks to increase the number of underrepresented students going into biomedical research
+
+Undergraduate Researcher at Wayne State University
+
+* Research Mentor: Dawn P. Misra
+
+* Completed CITI Program Training for Social and Behavioral Responsible Conduct of Research 1 (Basic Course) and Social/ Behavioral Researcher (Refresher Course)
+* Studied the association between Racial Identity and Health Behaviors Among Black Women.
+
+* Recruited women for the Biosocial Impacts on Black Births (BIBB) Study at Ascension St. John Hospital
+
+* Proficient in SPSS Statistics Software
+
+# Organizations
+
+Science, Race, and Technology Learning Community
+
+* Participated as a panelist in Bridges Not Fences II leading discussions on race and inclusion on campus
+* Facilitator and Co-Leader for Bridges Not Fences III & IV where we discussed Black Lives Matter, police brutality and the events of 2020. Mentored newcomers as they navigated the challenges that come with talking about race in front of a large audience
+* Addressed social ideas and issues through open conversations with faculty 
+* Emphasized the need to encourage social awareness
+
+
+
+Here's a direct link to the About page: [about](about.html).
+
+Here's a direct link to the Data Science Dashboard: [dashboard](dashboard.html).
+
+
+
+
+

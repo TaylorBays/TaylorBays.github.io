@@ -1,0 +1,31 @@
+---
+title: "Home"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+## Hello! My name is Taylor. 
+I love going to concerts, reading contemporary and literary fiction, running, and trying new restaurants with my family and friends.
+
+
+## Things I Believe
+
+Being able to sit down and read a novel is one of the best things someone can do. I think it says a lot about a person.
+![](images/ReadingIsSexy.jpg)
+
+
+I aspire to see Frank Ocean in concert. One of the best artists of our generation.
+![](images/Frankarma.jpg)
+
+
+The ocean or any large body of water makes me immensely happy.
+![](images/BlueOcean.jpg)
+
+Here's a direct link to the About page: [about](about.html).
+
+Here's a direct link to the Data Science Dashboard: [dashboard](dashboard.html).
+
+
